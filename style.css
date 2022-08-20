@@ -1,0 +1,61 @@
+body{
+    background-position: center;
+    background-repeat: repeat;
+    background-size: 96%;
+    background-image:url(images/flower.jpg);
+}
+.container{
+    margin-right: auto;
+    width: 1024px;
+    margin-left: auto;
+}
+header{
+    height: 130px;
+    width: 1024px;
+    text-align: center;
+    background-color: rgba(0, 255, 255, 0.267);
+}
+header p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 0 10px;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+main h1{
+    text-align: center;
+    padding: 20px 0;
+    color: rgb(51, 0, 0);
+    background-color: rgba(136, 189, 171, 0.616);
+}
+p{
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+}
+div{
+    padding-top: 40px;
+}
+.button{
+    width: 80px;
+}
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 0 10px;
+    background-color: rgba(0, 0, 0, 0.185);
+    text-align: center;
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+video{
+    height: 350px;
+    width: 350px;
+    display: auto;
+}
